@@ -1,14 +1,13 @@
-# welcome! 👋
+# Welcome! 👋
 
-### Hello, I'm Renan :brazil: :jp:
+## Hello, I'm Renan :brazil: :jp:
 
   - 🎓 Graduated in software engineering - Goias Federal University (UFG)
 
- <div align="right">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanOfugi&layout=compact&theme=tokyonight)](https://github.com/RenanOfugi)
- </div>
+## Programming Languages
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanOfugi&layout=compact&theme=tokyonight)](https://github.com/RenanOfugi)
+
 ## Contact
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-ofugi/)
